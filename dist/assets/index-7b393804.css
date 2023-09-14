@@ -1,0 +1,1 @@
+:root{--Cyan: rgb(42, 178, 175);--BrightYellow: rgb(192, 223, 52);--LightGray: hsl(204, 43%, 93%);--GrayishBlue: hsl(218, 22%, 67%);--fw: 400;--fw: 700}body{margin:0;display:grid;place-items:center;font-family:Karla,sans-serif;background-color:var(--LightGray);min-height:100vh}
